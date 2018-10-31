@@ -1,5 +1,5 @@
 # T-Reqs
-
+forked Fromm redwood-97
 <p><img src="images/treqsimg.jpg" width="450" align="right">T-Reqs is a multi-language requirements file generator which also serves the purpose of preparing a template Dockerfile and also, a template docker-compose file.  After a suggested preview, the developer should be ready to generate images for further work. Currently, the supported languages for the source file are Python and GO. It basically searches the entire app code file for the packages required, based upon the 'import' keyword. It writes the required dependencies on a requirements.txt file. Furthermore, the listed dependencies/packages are borrowed from the requirements file and are written on a template Dockerfile for further usage.  </p>
 <br>
 <br><br>
